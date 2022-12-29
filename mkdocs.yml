@@ -4,21 +4,19 @@ site_description: MDDI master of Annie Ferlatte
 site_author: Annie Ferlatte
 copyright: Copyright 2022 Fabricademy - Creactive Commons
 
-site_url: https://class.textile-academy.org/2022/sarah-carnus/
-repo_url: https://gitlab.fabcloud.org/academany/fabricademy/2022/students/sarah-carnus
-repo_name: fabricademy/2022/sarah-carnus
+site_url: https://annieferlatte.github.io/
+repo_url: https://github.com/AnnieFerlatte/AnnieFerlatte.github.io.git
+repo_name: AnnieFerlatte.github.io
 
 extra:
   social:
     # Change to your own social media or remove some. For more social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/roxysocherry
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/roxysocherry
+      link: https://www.instagram.com/aferlatte/
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/sarahcarnus/
+      link: https://www.linkedin.com/in/annie-ferlatte-66a33173/
     - icon: fontawesome/brands/github
-      link: https://github.com/Roxysocherry
+      link: https://github.com/AnnieFerlatte/
 
 theme:
   # The name of the theme, check your requirements.txt file
@@ -30,7 +28,7 @@ theme:
   font:
     # See available fonts from https://fonts.google.com/
     text: DM Mono
-    code: Roboto Mono
+    code: 'Roboto Flex', sans-serif;
   icon:
     # Read about icons at https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/
     logo: material/food
