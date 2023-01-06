@@ -1,12 +1,14 @@
 ---
-title: Nineteen Years Later
-author: Harry Potter
-date: July 31, 2016
-output:
-  prettydoc::html_pretty:
-    theme: leonid
-    highlight: github
+title: "Taking Notes"
+author: "Annie Ferlatte"
+date: "2022"
+output: 
+  html_document:
+     css: 
+     self_contained: no
+
 ---
+
 
 # Taking notes
 
