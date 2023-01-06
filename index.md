@@ -1,3 +1,13 @@
+---
+title: Nineteen Years Later
+author: Harry Potter
+date: July 31, 2016
+output:
+  prettydoc::html_pretty:
+    theme: leonid
+    highlight: github
+---
+
 # Taking notes
 
 ## MDDI
