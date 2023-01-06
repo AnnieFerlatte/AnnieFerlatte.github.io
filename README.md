@@ -1,3 +1,4 @@
 # AnnieFerlatte.github.io
-Documenting different work of Annie Ferlatte
+''Document everything'' 
+
 ** publish on https://annieferlatte.github.io/
