@@ -3,8 +3,8 @@
 ## MDDI
 ### - Part 1 -
 *October to December 2022*
-- [Design tools 1]() . Exploring tools
-- [Systems design studio 1]() . Going toward Fab city
+- [Design tools 1](DesignTools.md) . Exploring tools
+- [Systems design studio 1](SysStudio.md) . Going toward Fab city
 - [Distributed design]() . What is "distributed design"
 - [Propagating collaboration]() . FUNgi challenge 
 
