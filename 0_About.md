@@ -1,7 +1,6 @@
 # MDDI master
 
-![ ](_img/aboutShip.png)
-
+![ship](_img/DistribDesign/aboutShip.png)
 
 *World wide* [*marine traffic*](https://www.marinetraffic.com/blog/singapore-top-shipping-centre-for-eighth-year-running/)
 
@@ -12,5 +11,3 @@ This website document my work during the *Master in Design for Distributed Innov
 To a linear economy to a circular DIDO economy. Producing localy with local ressources and connected globaly to go faster with the community.
 
 *A research on how everybody will live togheter on this same old good planet?*
-
-
