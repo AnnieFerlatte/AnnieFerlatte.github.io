@@ -1,5 +1,8 @@
 # MDDI master
-![](_img/aboutShip.png)
+
+![ ](_img/aboutShip.png)
+
+
 *World wide* [*marine traffic*](https://www.marinetraffic.com/blog/singapore-top-shipping-centre-for-eighth-year-running/)
 
 Like you all know, the planet is not going so well because of our human gigantic footprint. Part of the solution is to change the way we do things to be more align with the equilibrium ressources of the planet.
