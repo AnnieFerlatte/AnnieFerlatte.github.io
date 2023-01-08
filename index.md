@@ -12,10 +12,10 @@ layout: default
 ### - Part 1 -
 *October to December 2022*
 - [Design tools 1](Doc/1_DesignTools.md) . Exploring tools
-- [Systems design studio 1](1_SysStudio.md) . Going toward Fab city
-- [Distributed design](1_Doc/distributedDesign.md) . What is "distributed design"
+- [Systems design studio 1](Doc/1_SysStudio.md) . Going toward Fab city
+- [Distributed design](Doc/1_distributedDesign.md) . What is "distributed design"
 - [Propagating collaboration](Doc/1_PropagatingCollaboration.md) . FUNgi challenge 
-- [Bio base economies](Doc/2_HumanBioInteractions.md) . Bio-materials
+- [Bio base economies](Doc/1_BioBaseEconomies) . Bio-materials
 
 ### - Part 2 -
 *January to march 2023*
