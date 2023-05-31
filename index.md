@@ -1,30 +1,27 @@
 ---
-title: "Taking Notes"
+title: "Document everyting"
 permalink: /
 layout: default
 ---
 
-# Taking notes
+# Document everything
+*A good habbit to take*
 
-## MDDI
+
+<hr>
+<hr>
+
+## - The Master in Distributed Design Innovation (MDDI)-
+*October 2023 to june 2024*
+
 [About](Doc/0_About.md)
 
-### - Part 1 -
-*October to December 2022*
-- [Design tools 1](Doc/1_DesignTools.md) . Exploring tools
-- [Systems design studio 1](Doc/1_SysStudio.md) . Going toward Fab city
-- [Distributed design](Doc/1_distributedDesign.md) . What is "distributed design"
-- [Propagating collaboration](Doc/1_PropagatingCollaboration.md) . FUNgi challenge 
-- [Bio base economies](Doc/1_BioBaseEconomies) . Bio-materials
+[Shaping a project idea](Doc/0_ShapeIdea.md)
 
-### - Part 2 -
-*January to march 2023*
-- [Design tools 2](Doc/2_DesignTools.md) . Exploring tools
-- [Systems design studio 2](Doc/2_HumanBioInteractions.md) . Going toward Fab city
-- [Distributed economies](Doc/2_DistributedEconomies.md) . Let see
-- [Activating communities](Doc/2_ActivatingCommunities.md) . Let see
-- [Human Bio-Interactions](Doc/2_HumanBioInteractions.md) . Let see
-- [Bio-Design](Doc/2_BioDesign.md) . Let see
+[Hosting a social network](Doc/1_VisionMission.md)
+
+[Toolkit - Indoor permaculture](Doc/2_Toolkit.md)
+
 <hr>
 <hr>
 
