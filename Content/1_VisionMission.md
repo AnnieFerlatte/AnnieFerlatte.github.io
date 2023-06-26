@@ -1,6 +1,6 @@
 # Hosting a social network
 
-
+[Invitation Hosting a social network](https://youtu.be/9HZFuO2uT54)
 
 <hr>
 
@@ -18,7 +18,7 @@ How can we take advantage of those impressive statistic and how could we bring b
 
 By tackling this problem we could improve, globaly, the resilience of the ecosystems and locally, the human health.
 
-![indoorbiome](_img/ShapingIdeas/protor.jpg)
+![indoorbiome](img/ShapingIdeas/protor.jpg)
 
 ## Who
 
@@ -32,7 +32,7 @@ The plants can adapt at a certain point to it's environnement, but depending of 
 
 A plant itself could be consider has a neighborhood of biome and fungi that exchange food and services for the survival of all. Multiple plants link together could be consider has a city where plants can communicate, hear and even retain informations for a period of time. We should make sure that those plants that will be introduce indoor can keep this close social interaction, a living media and weather condition that will make them happy.
 
-![indoorbiome](_img/ShapingIdeas/protor.jpg)
+![indoorbiome](img/ShapingIdeas/protor.jpg)
 
 ## Solution
 
@@ -44,7 +44,7 @@ For the moment, plants are typically introduce indoor environnement in solo pot 
 
 This solution need to be driven by the personnalisation, the same way a person design their interior to represent themselves in a certain way. By adapting the permaculture methodology to the indoor and by making this project open, hopefully the design system could be reproduce globally and the fabrication with the final shape could be adapt locally.
 
-![indoorbiome](_img/ShapingIdeas/protor.jpg)
+![indoorbiome](img/ShapingIdeas/protor.jpg)
 
 ## Impact
 
@@ -58,8 +58,8 @@ The undirect impact at this level is that by doing this project into your indoor
 
 Inspired by the documentary planet boundaries, I like to think that people will produce mode food and plants for local productions. That could influence the pressure on the planet about the air pollution, the pressure on land and the biodiversity of course.
 
-![indoorbiome](_img/ShapingIdeas/protor.jpg)
+![indoorbiome](img/ShapingIdeas/protor.jpg)
 
 ## Methodology use to develop this project
 
-![indoorbiome](_img/ShapingIdeas/protor.jpg)
+![indoorbiome](img/ShapingIdeas/protor.jpg)
