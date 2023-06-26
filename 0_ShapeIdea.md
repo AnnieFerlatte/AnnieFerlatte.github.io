@@ -166,9 +166,8 @@ Base on the previous event, we gather around the thematic of propagating. 3 memb
 **Designing a pegboard wall for plants**
 
 ![Com1](_img/ShapingIdeas/wall1.jpg)
-![Com1](_img/ShapingIdeas/mur.jpg)
 
 One member of the community is not so mutch into plants but have greater interest into the fabrication and design challenges. To develop the pegboard idea related during the intervention 2, we started to codesign this idea. Here is some sketches of the idea taking shape and some exploration he did to make it nice, usefull and parametrical for a reproduction purpose.
 
 ## Local action to a global impact
-This local experimental project locally incubated have showed interest and curiosity. To scale the impact I will transform this process into a toolkit that we can follow.
+This local experimental project locally incubated have showed interest and curiosity. The local and the global network had demonstrate interest in this new field of meerging indoors spaces and the social network of the nature. This new field and or movement need to be open and colaborative because nobody have the answer and we just began to understand those network of informations. Maybe this project could help centralize the informations about multispiecies design to host them indoors to helps being inspired and further develop decentralize solutions. To scale the impact I will transform this process into a toolkit that we can follow has a base and invite a global participations to keep going foward collectively.

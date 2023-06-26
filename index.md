@@ -14,16 +14,16 @@ layout: default
 ## - The Master in Distributed Design Innovation (MDDI)-
 *October 2023 to june 2024*
 
-[About](Doc/0_About.md)
+[About](/@ANNIE/WEB/AnnieFerlatte.github.io/0_About.md)
 
-[Shaping a project idea](Doc/0_ShapeIdea.md)
+[Shaping a project idea](/0_ShapeIdea.md)
 
-[Hosting a social network](Doc/1_VisionMission.md)
+[Hosting a social network](1_VisionMission.md)
 
 [Toolkit - Indoor permaculture](Doc/2_Toolkit.md)
 
 <hr>
-<hr>
+<hr>/@ANNIE/WEB/AnnieFerlatte.github.io/index.md
 
 ## Previous documented work
 2019 . [Fabcademy](http://fabacademy.org/2019/labs/echofab/students/annie-ferlatte/) . Producing in fab lab
