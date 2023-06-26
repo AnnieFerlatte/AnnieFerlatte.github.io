@@ -1,6 +1,6 @@
 # MDDI master
 
-![ship](/DistribDesign/aboutShip1.PNG)
+![ship](img/DistribDesign/aboutShip1.PNG)
 
 
 *World wide* [*marine traffic*](https://www.marinetraffic.com/blog/singapore-top-shipping-centre-for-eighth-year-running/)
