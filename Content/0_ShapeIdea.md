@@ -2,25 +2,25 @@
 
 ## Idea 1
 
-![Idea1](img/ShapingIdeas/idea1.jpg)
+![Idea1](Content/img/ShapingIdeas/idea1.jpg)
 
 In this world where we exclude the nature of our live, home, city, how can find a way to cohabitate with nature? How can we create space in our human environnement to invite again nature close to us and how in nature can we reintroduce human without harming? What could be the symbiosis between a fab lab in a deep city and a fab lab in a deep forest?
 
 
 ## Idea 2
 
-![Idea2](img/ShapingIdeas/idea2.jpg)
+![Idea2](Content/img/ShapingIdeas/idea2.jpg)
 How can we do a project with a local and a global ecosystem? Can we test it with a small aquaponic project in the kitchen of the lab? This map could be a exemple of the relationships between the stakeholders that could help incubate a project.
 
 ## Idea 3
 
-![Idea3](_img/ShapingIdeas/idea3.jpg)
+![Idea3](img/ShapingIdeas/idea3.jpg)
 
 One of our partener Terra Perma is experimenting different form of permaculture on his land in a deep forest. How can the human and non-human could live in symbiosis to cultivate food, having shelter and trive on the same land. Can we start doing permaculture indoor in the deep city? Can we transform our city in productive city that could help to regenerate a good biodiversity?
 
 ## Idea 4
 
-![Idea4](_img/ShapingIdeas/idea4.jpg)
+![Idea4](img/ShapingIdeas/idea4.jpg)
 
 In the pass we have made a aquaponic system in the lab to bring back nature indoor because we live 90% of our time in indoor spaces. Science had showed that nature have a real effect on human healt. Maybe if we reintegrate aquaponic system indoor we can start producing in the city and increase the biodiversity in the same time?  
 
