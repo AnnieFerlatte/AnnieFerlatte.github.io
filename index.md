@@ -16,11 +16,11 @@ layout: default
 
 [About](/Content/0_About.md)
 
-[Shaping a project idea](/0_ShapeIdea.md)
+[Shaping a project idea](/Content/0_ShapeIdea.md)
 
-[Hosting a social network](1_VisionMission.md)
+[Hosting a social network](/Content/1_VisionMission.md)
 
-[Toolkit - Indoor permaculture](Doc/2_Toolkit.md)
+[Toolkit - Indoor permaculture](/Content/2_Toolkit.md)
 
 <hr>
 <hr>/@ANNIE/WEB/AnnieFerlatte.github.io/index.md
