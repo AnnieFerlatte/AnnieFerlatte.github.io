@@ -27,7 +27,7 @@ So first, map your environnement and identify :
 4. If you have ventilation system or some filter
 5. Your habits that could bring some outside element indoors.
 
-You can do it with a big sheet of paper or you can do it with *Kumu* [Kumu link ](https://kumu.io) and link a google sheet
+You can do it with a big sheet of paper or you can do it with *Kumu* [Kumu link ](https://kumu.io) and link a <a href="img/tookit/exHSNkumu.xlsx">google sheet exemple</a>.
 
 ## 2- What is your "Yield"
 
