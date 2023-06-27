@@ -62,4 +62,5 @@ Inspired by the documentary planet boundaries, I like to think that people will 
 
 ## Methodology use to develop this project
 
-![indoorbiome](img/ShapingIdeas/protor.jpg)
+Start your first system with your community
+[The toolkit](/Content/2_Toolkit.md)
