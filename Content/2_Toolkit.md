@@ -33,6 +33,8 @@ You can do it with a big sheet of paper or you can do it with *Kumu* [Kumu link 
 
 ![Com1](img/tookit/perma.jpg)
 
+<a href="img/tookit/dreamYourSystem.pdf">Tools for step 2 and 3</a>
+
 This is the diagram of the traditional methodology of outside permaculture. We will start by the one in circles.
 
 A yield could be something like having herbs but it could be also like having a peacefull space. What do you want to produce in you indoor space? What are your goals?
