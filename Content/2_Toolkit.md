@@ -31,7 +31,7 @@ You can do it with a big sheet of paper or you can do it with *Kumu* [Kumu link 
 
 ## 2- What is your "Yield"
 
-![Com1](img/toolkit/perma.jpg)
+![Com1](img/tookit/perma.jpg)
 
 This is the diagram of the traditional methodology of outside permaculture. We will start by the one in circles.
 
