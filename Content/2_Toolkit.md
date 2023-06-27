@@ -10,11 +10,8 @@ By adapting the permaculture methodology to the indoor environnement we could, a
 
 *For more information you can read:*
 *Analysing indoor mycobiomes through a large-scale citizen science study in Norway* [*marine traffic*](https://pubmed.ncbi.nlm.nih.gov/33830574/)
-
 *Sources of airborne microorganisms in the built environment* [*indoor biome*](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-015-0144-z#:~:text=Likewise%2C%20pets%20and%20plants%20are,mold%20growing%20on%20building%20materials)
-
 *The aerobiome uncovered: Multi-marker metabarcoding reveals potential drivers of turn-over in the full microbial community in the air* [*aerobiome*](https://www.sciencedirect.com/science/article/pii/S0160412021001768)
-
 *Evolution of the indoor biome* [*evolution*](https://www.sciencedirect.com/science/article/abs/pii/S0169534715000385)
 
 <hr>
